@@ -18,7 +18,7 @@ Example images from EgoYouTubeHands dataset:
 Example images from HandOverFace dataset:
 ![HOF](images/hof.jpg)
 
-### Results
+## Results
 
 ### Qualitative Results
 Hand segmentation results for all datasets:
