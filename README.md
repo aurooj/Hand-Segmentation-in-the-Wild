@@ -1,6 +1,12 @@
 ## Analysis of Hand Segmentation in the Wild
 
-## Results
+### Code
+Coming soon..
 
-## Qualitative Results
+### Models
+
+### Results
+
+### Qualitative Results
+![Qualitative results for EgoHands dataset:]
 
