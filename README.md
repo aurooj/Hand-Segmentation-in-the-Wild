@@ -30,7 +30,7 @@ Hand segmentation results for all datasets:
 ![All datasets:](images/crfs.jpg)
 
 ### Citation
-If this work is useful for your research, please consider citing:
+If this work and/or datasets is useful for your research, please consider citing:
 
 
     @article{khan2018analysis,
