@@ -8,5 +8,5 @@ Coming soon..
 ### Results
 
 ### Qualitative Results
-![Qualitative results for EgoHands dataset:]
+![Qualitative results for EgoHands dataset:](images/modelPerf.pdf)
 
