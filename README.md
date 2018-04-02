@@ -19,9 +19,9 @@ Coming soon..
 ### Datasets
 We used 4 datasets in our work, two of them are collected as part of our contribution:
 * [EgoHands dataset](http://vision.soic.indiana.edu/projects/egohands/)
-* EgoYouTubeHands dataset
+* EgoYouTubeHands dataset [[download]](https://1drv.ms/u/s!AtxSFigVVA5JhNtnDn5fyDGWuZXlhg)
 * [GTEA dataset](http://www.cbi.gatech.edu/fpv/)
-* HandOverFace dataset
+* HandOverFace dataset [[download]](https://1drv.ms/u/s!AtxSFigVVA5JhNtm0rxFbLOu-PaAwg)
 
 Example images from EgoYouTubeHands dataset:
 ![EYTH](images/eyth.jpg)
