@@ -10,6 +10,8 @@ are annotated with multiple possible labels(e.g., picking and
 placing are sometimes difficult to be inferred at a single
 frame-level).
 
+![EgoHands+](images/egohands+.png) 
+
 We have annotated hands with action labels in two settings: 
 * coarse hand maps: where we just outlined the hand boundaries
 * fine hand maps: where we take extra care to outline details about fingers as much as possible.
@@ -42,6 +44,8 @@ Each "object" is labeled and named as one of the following:
 
 In the attributes, we labeled who is manipulating the object (either 'first_person' or 'other'). If they are both manipulating the same object, we just put both separated by a comma ('first_person,other')
 
-TODO:
-Add download link to xml files
-Add parsing code
+## Usage
+1. Install LabelMe MATLAB toolbox as instructed [here](http://labelme2.csail.mit.edu/Release3.0/browserTools/php/matlab_toolbox.php).
+2. We have borrowed some code from EgoHands dataset's [page](http://vision.soic.indiana.edu/projects/egohands/) already uploaded here. For their complete API you can refer to the original project. 
+3. to do...
+
