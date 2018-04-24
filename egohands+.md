@@ -46,6 +46,11 @@ In the attributes, we labeled who is manipulating the object (either 'first_pers
 
 ## Usage
 1. Install LabelMe MATLAB toolbox as instructed [here](http://labelme2.csail.mit.edu/Release3.0/browserTools/php/matlab_toolbox.php).
-2. We have borrowed some code from EgoHands dataset's [page](http://vision.soic.indiana.edu/projects/egohands/) already uploaded here. For their complete API you can refer to the original project. 
-3. to do...
+2. Download [EgoHands+](https://1drv.ms/u/s!AtxSFigVVA5JhNtsRdvgmxvB2c1rPg).
+3. We have borrowed some code from EgoHands dataset's [page](http://vision.soic.indiana.edu/projects/egohands/) already uploaded here. For their complete API you can refer to the original project. 
+4. Place our matlab_scripts in the labelme toolbox folder.
+5. Setup paths for the directory with EgoHands+ dataset and destination directory.
+6. Run ```load_generate_gt_imgs_hands_objects2.m``` to generate masks for hands+objects setup. This would also generate a text file with images along with their labels.
+7. Run ```load_generate_gt_imgs_objects_only.m``` to generate masks for objects only setup.
+8. Run ```load_generate_gt_imgs2.m``` to generate masks for hands only setup.
 
