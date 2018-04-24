@@ -18,7 +18,7 @@ You can download our refinenet-based hand segmentation models using the links gi
 * [refinenet_res101_hof.mat](https://1drv.ms/u/s!AtxSFigVVA5JhNtpC_uMyBWnP9U4RQ)
 
 ### Datasets
-We used 4 datasets in our work, two of them(EgoYouTubeHands and HandOverFace datasets) are collected as part of our contribution:
+We used 4 hand segmentation datasets in our work, two of them(EgoYouTubeHands and HandOverFace datasets) are collected as part of our contribution:
 * [EgoHands dataset](http://vision.soic.indiana.edu/projects/egohands/)
 * EgoYouTubeHands(EYTH) dataset [[download]](https://1drv.ms/u/s!AtxSFigVVA5JhNtnDn5fyDGWuZXlhg)
 * [GTEA dataset](http://www.cbi.gatech.edu/fpv/)
@@ -29,6 +29,8 @@ Example images from EgoYouTubeHands dataset:
 
 Example images from HandOverFace dataset:
 ![HOF](images/hof.jpg)
+
+To study fine-level action recognition, we provide additional annotations for a subset of EgoHands dataset. You can find more details and the dataset [here](Hand-Segmentation-in-the-Wild/egohands+.md).
 
 ## Results
 
