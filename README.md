@@ -30,7 +30,8 @@ Example images from EgoYouTubeHands dataset:
 Example images from HandOverFace dataset:
 ![HOF](images/hof.jpg)
 
-To study fine-level action recognition, we provide additional annotations for a subset of EgoHands dataset. You can find more details and the dataset [here](Hand-Segmentation-in-the-Wild/egohands+.md).
+* **EgoHands+** dataset:
+To study fine-level action recognition, we provide additional annotations for a subset of EgoHands dataset. You can find more details [here](https://github.com/aurooj/Hand-Segmentation-in-the-Wild/blob/master/egohands%2B.md) and download the dataset from this [download](https://1drv.ms/u/s!AtxSFigVVA5JhNtsRdvgmxvB2c1rPg) link.
 
 ## Results
 
