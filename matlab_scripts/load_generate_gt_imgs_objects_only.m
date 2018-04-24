@@ -12,13 +12,14 @@ folders = {'cards_courtyard_h_s','cards_courtyard_s_h','chess_courtyard_h_s'...
 
 %DIR to save your resulting images
 DIR = 'path\to\save\output\images\';
+SRC_DIR = 'path\to\egohands\fine\annotations\folders\';
 
 fileID = fopen('inputfile_fineannot.txt','w');%open a file for writing annotations to it.
 
 % iterating over each folder
 for id = 1:length(folders)
     
-HOMEANNOTATIONS = fullfile('path\to\egohands\fine\annotations\folders\',folders(id));
+HOMEANNOTATIONS = fullfile(SRC_DIR,folders(id));
 
 D = LMdatabase(HOMEANNOTATIONS{1});%read annotations for each video using Labelme library function
 
@@ -40,7 +41,7 @@ for  idx = 1:length(D)
     %get all annotated objects in that image
     objects = D(idx).annotation.object; 
     img_name = D(idx).annotation.filename;
-    img = imread(fullfile('C:\Users\Vision\Documents\MATLAB\EgoHands_FineAnnotations\labelme',char(folders(id)),'\Images\users\shivengoyal',char(folders(id)),D(idx).annotation.filename));
+    img = imread(fullfile(SRC_DIR,char(folders(id)),'\Images\users\shivengoyal',char(folders(id)),D(idx).annotation.filename));
     [row,col,ch]=size(img);
    
     for obj_id = 1:length(objects)
