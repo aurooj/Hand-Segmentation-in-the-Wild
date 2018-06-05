@@ -8,7 +8,15 @@ We further explore whether conditional random fields can help refine generated h
 * [[Project]](https://aurooj.github.io/Hand-Segmentation-in-the-Wild/)
 
 ### Code
-Coming soon..
+We have uploaded the additional files needed to train, test and evaluate our models' performance. Code for multiscale evaluation is also provided. See the folder ```refinenet_files```.
+
+To test the models:
+* you will need to download the refinenet code from their [github repository](https://github.com/guosheng/refinenet). 
+* Copy the files provided in ```refinenet_files``` folder to ```refinenet/main``` folder. 
+* Place the refinenet-based hand segmentation model (see Models section) in ```refinenet/model_trained``` folder.
+* For instance, to test the model trained on EgoHands dataset, copy the ```refinenet_res101_egohands.mat``` file in ```refinenet/model_trained``` folder. Set the path to test images folder in ```demo_refinenet_test_example_egohands.m``` and run the script.
+* The demo code is the same from the original refinenet demo files except minor changes. 
+
 
 ### Models
 You can download our refinenet-based hand segmentation models using the links given below:
