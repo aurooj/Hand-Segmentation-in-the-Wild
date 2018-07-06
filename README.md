@@ -30,7 +30,7 @@ We used 4 hand segmentation datasets in our work, two of them(EgoYouTubeHands an
 * [EgoHands dataset](http://vision.soic.indiana.edu/projects/egohands/)
 * EgoYouTubeHands(EYTH) dataset [[download]](https://1drv.ms/u/s!AtxSFigVVA5JhNtnDn5fyDGWuZXlhg)
 * [GTEA dataset](http://www.cbi.gatech.edu/fpv/)
-* HandOverFace(HOF) dataset [[download]](https://1drv.ms/u/s!AtxSFigVVA5JhNtm0rxFbLOu-PaAwg)
+* HandOverFace(HOF) dataset [[download]](https://1drv.ms/u/s!AtxSFigVVA5JhNttKoMwRyHwKoxUWg)
 
 Example images from EgoYouTubeHands dataset:
 ![EYTH](images/eyth.jpg)
