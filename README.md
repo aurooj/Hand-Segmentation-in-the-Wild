@@ -47,6 +47,9 @@ To study fine-level action recognition, we provide additional annotations for a 
 Hand segmentation results for all datasets:
 ![All datasets:](images/crfs.jpg)
 
+### CVPR Poster
+![cvpr-poster](images/cvpr2018-AUK.jpg)
+
 ### Acknowledgements
 We would like to thank undergraduate students Cristopher Matos, and Jose-Valentin Sera-Josef, and MS student Shiven Goyal for helping us in data annotations. 
 
