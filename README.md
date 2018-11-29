@@ -56,7 +56,7 @@ Hand segmentation results for all datasets:
 We would like to thank undergraduate students Cristopher Matos, and Jose-Valentin Sera-Josef, and MS student Shiven Goyal for helping us in data annotations. 
 
 ### Citation
-If this work and/or datasets is useful for your research, please cite our [paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Urooj_Analysis_of_Hand_CVPR_2018_paper.pdf).
+If this work and/or datasets is useful for your research, please cite our paper.
 
 <!---
     @InProceedings{Urooj_2018_CVPR,
