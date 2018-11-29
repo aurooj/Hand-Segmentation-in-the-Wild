@@ -56,9 +56,9 @@ Hand segmentation results for all datasets:
 We would like to thank undergraduate students Cristopher Matos, and Jose-Valentin Sera-Josef, and MS student Shiven Goyal for helping us in data annotations. 
 
 ### Citation
-If this work and/or datasets is useful for your research, please consider citing:
+If this work and/or datasets is useful for your research, please cite our [paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Urooj_Analysis_of_Hand_CVPR_2018_paper.pdf).
 
-
+<!---
     @InProceedings{Urooj_2018_CVPR,
     author = {Urooj, Aisha and Borji, Ali},
     title = {Analysis of Hand Segmentation in the Wild},
@@ -66,7 +66,7 @@ If this work and/or datasets is useful for your research, please consider citing
     month = {June},
     year = {2018}
     }
-
+--->
 
 ### Questions?
 Please contact 'aishaurooj@gmail.com'
