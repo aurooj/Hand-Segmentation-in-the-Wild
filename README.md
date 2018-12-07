@@ -20,7 +20,9 @@ To test the models:
 
 ### Models
 You can download our refinenet-based hand segmentation models using the links given below:
-* [refinenet_res101_egohands.mat](https://1drv.ms/u/s!AtxSFigVVA5JhNtreE4UkKjC5pmtkg)
+
+* [refinenet_res101_egohands.mat](https://1drv.ms/u/s!AtxSFigVVA5JhNtrnAKBj146cWdsJw)
+https://1drv.ms/u/s!AtxSFigVVA5JhNtreE4UkKjC5pmtkg
 * [refinenet_res101_eyth.mat](https://1drv.ms/u/s!AtxSFigVVA5JhNtot-l0EaVnVzDhXw)
 * [refinenet_res101_gtea.mat](https://1drv.ms/u/s!AtxSFigVVA5JhNtq9tjNK6KzW4z5kQ)
 * [refinenet_res101_hof.mat](https://1drv.ms/u/s!AtxSFigVVA5JhNtpC_uMyBWnP9U4RQ)
