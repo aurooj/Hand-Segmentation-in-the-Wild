@@ -22,9 +22,9 @@ To test the models:
 You can download our refinenet-based hand segmentation models using the links given below:
 
 * [refinenet_res101_egohands.mat](https://drive.google.com/file/d/1u7yGIafopsn_w-RHGt1wzO-8XgmL-1zu/view?usp=sharing)
-* [refinenet_res101_eyth.mat](https://1drv.ms/u/s!AtxSFigVVA5JhNtot-l0EaVnVzDhXw)
-* [refinenet_res101_gtea.mat](https://1drv.ms/u/s!AtxSFigVVA5JhNtq9tjNK6KzW4z5kQ)
-* [refinenet_res101_hof.mat](https://1drv.ms/u/s!AtxSFigVVA5JhNtpC_uMyBWnP9U4RQ)
+* [refinenet_res101_eyth.mat](https://drive.google.com/file/d/12HRYXdHWOGkl71QqUdlijCq2w2ARa6-M/view?usp=sharing)
+* [refinenet_res101_gtea.mat](https://drive.google.com/file/d/1yCnpTpBuBF8wYoM4_E1o8dAWjFS0BkxM/view?usp=sharing)
+* [refinenet_res101_hof.mat](https://drive.google.com/file/d/1AOY8EQ9LRNYFusgFxHEhE_fAifNdsayh/view?usp=sharing)
 
 ### Datasets
 We used 4 hand segmentation datasets in our work, two of them(EgoYouTubeHands and HandOverFace datasets) are collected as part of our contribution:
