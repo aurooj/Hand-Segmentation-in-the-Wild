@@ -29,9 +29,9 @@ You can download our refinenet-based hand segmentation models using the links gi
 ### Datasets
 We used 4 hand segmentation datasets in our work, two of them(EgoYouTubeHands and HandOverFace datasets) are collected as part of our contribution:
 * [EgoHands dataset](http://vision.soic.indiana.edu/projects/egohands/)
-* EgoYouTubeHands(EYTH) dataset [[download]](https://1drv.ms/u/s!AtxSFigVVA5JhNtnDn5fyDGWuZXlhg)
+* EgoYouTubeHands(EYTH) dataset [[download]](https://drive.google.com/file/d/1EwjJx-V-Gq7NZtfiT6LZPLGXD2HN--qT/view?usp=sharing)
 * [GTEA dataset](http://www.cbi.gatech.edu/fpv/)
-* HandOverFace(HOF) dataset [[download]](https://1drv.ms/u/s!AtxSFigVVA5JhNttKoMwRyHwKoxUWg)
+* HandOverFace(HOF) dataset [[download]](https://drive.google.com/file/d/1JmOm49cFOpnf9ccDh2zkDj7t7hqBdD6e/view?usp=sharing)
 #### NEW!
 Test set for HandOverFace dataset is uploaded [here](https://1drv.ms/u/s!AtxSFigVVA5JhPUEkX_KZYlHTu5LhQ).
 
