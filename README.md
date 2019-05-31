@@ -32,6 +32,11 @@ We used 4 hand segmentation datasets in our work, two of them(EgoYouTubeHands an
 * EgoYouTubeHands(EYTH) dataset [[download]](https://drive.google.com/file/d/1EwjJx-V-Gq7NZtfiT6LZPLGXD2HN--qT/view?usp=sharing)
 * [GTEA dataset](http://www.cbi.gatech.edu/fpv/)
 * HandOverFace(HOF) dataset [[download]](https://drive.google.com/file/d/1JmOm49cFOpnf9ccDh2zkDj7t7hqBdD6e/view?usp=sharing)
+
+#### NEW!
+Links to the videos used for EYTH dataset:
+![vid4](https://www.youtube.com/watch?v=dYZm7jB9YA4), ![vid6](https://www.youtube.com/watch?v=5RTJ4dymKfo), ![vid9](https://www.youtube.com/watch?v=vG9vfjdcmRw)
+
 #### NEW!
 Test set for HandOverFace dataset is uploaded [here](https://drive.google.com/file/d/1-OmtqYBVmAstCzOKz8xpatw6lk9hUm--/view?usp=sharing).
 
