@@ -35,7 +35,12 @@ We used 4 hand segmentation datasets in our work, two of them(EgoYouTubeHands an
 
 #### NEW!
 Links to the videos used for EYTH dataset:
-![vid4](https://www.youtube.com/watch?v=dYZm7jB9YA4), ![vid6](https://www.youtube.com/watch?v=5RTJ4dymKfo), ![vid9](https://www.youtube.com/watch?v=vG9vfjdcmRw)
+
+
+[![vid4](http://img.youtube.com/vi/dYZm7jB9YA4/0.jpg)](https://www.youtube.com/watch?v=dYZm7jB9YA4&feature=youtu.be&hd=1 "vid4")
+[![vid6](http://img.youtube.com/vi/5RTJ4dymKfo/0.jpg)](https://www.youtube.com/watch?v=5RTJ4dymKfo&feature=youtu.be&hd=1 "vid6")
+[![vid9](http://img.youtube.com/vi/vG9vfjdcmRw/0.jpg)](https://www.youtube.com/watch?v=vG9vfjdcmRw&feature=youtu.be&hd=1 "vid9")
+
 
 #### NEW!
 Test set for HandOverFace dataset is uploaded [here](https://drive.google.com/file/d/1-OmtqYBVmAstCzOKz8xpatw6lk9hUm--/view?usp=sharing).
