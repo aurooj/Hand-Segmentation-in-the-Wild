@@ -34,8 +34,7 @@ We used 4 hand segmentation datasets in our work, two of them(EgoYouTubeHands an
 * HandOverFace(HOF) dataset [[download]](https://drive.google.com/file/d/1JmOm49cFOpnf9ccDh2zkDj7t7hqBdD6e/view?usp=sharing)
 
 #### NEW!
-Links to the videos used for EYTH dataset:
-
+Links to the videos used for EYTH dataset are given below. Each video is 3-6 minutes long. We cleaned the dataset before annotation and discarded unnecessary frames (e.g., frames containing text or if hands were out of view for a long time, etc). 
 
 [![vid4](http://img.youtube.com/vi/dYZm7jB9YA4/0.jpg)](https://www.youtube.com/watch?v=dYZm7jB9YA4&feature=youtu.be&hd=1 "vid4")
 [![vid6](http://img.youtube.com/vi/5RTJ4dymKfo/0.jpg)](https://www.youtube.com/watch?v=5RTJ4dymKfo&feature=youtu.be&hd=1 "vid6")
