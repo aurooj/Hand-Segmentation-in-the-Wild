@@ -31,7 +31,13 @@ We used 4 hand segmentation datasets in our work, two of them(EgoYouTubeHands an
 * [EgoHands dataset](http://vision.soic.indiana.edu/projects/egohands/)
 * EgoYouTubeHands(EYTH) dataset [[download]](https://drive.google.com/file/d/1EwjJx-V-Gq7NZtfiT6LZPLGXD2HN--qT/view?usp=sharing)
 * [GTEA dataset](http://www.cbi.gatech.edu/fpv/)
-* HandOverFace(HOF) dataset [[download]](https://drive.google.com/file/d/1JmOm49cFOpnf9ccDh2zkDj7t7hqBdD6e/view?usp=sharing)
+* HandOverFace(HOF) dataset [[download]](https://drive.google.com/open?id=1hHUvINGICvOGcaDgA5zMbzAIUv7ewDd3)
+
+#### Warning!
+Thanks to [Rafael Redondo Tejedor](https://github.com/valillon) who pointed out some minor mistakes in the dataset:
+* For HandOverFace dataset, 216.jpg and 221.jpg images are actually GIFs in the original size folder.
+* There were minor annotations errors for the following images in xml files: 10.jpg and 225.jpg which were pointed out and corrected by Rafael Redondo Tejedor.
+* Current link to the dataset has updated xml files for the above mentioned annotation errors.
 
 #### NEW!
 Links to the videos used for EYTH dataset are given below. Each video is 3-6 minutes long. We cleaned the dataset before annotation and discarded unnecessary frames (e.g., frames containing text or if hands were out of view for a long time, etc). 
