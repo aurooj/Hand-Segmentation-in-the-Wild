@@ -40,6 +40,8 @@ Thanks to [Rafael Redondo Tejedor](https://github.com/valillon) who pointed out 
 * Current link to the dataset has updated xml files for the above mentioned annotation errors.
 
 #### NEW!
+02/23/2021! Hands masks for GTEA (cropped till wrist) has been uploaded under [![data](https://github.com/aurooj/Hand-Segmentation-in-the-Wild/tree/master/data) directory. 
+
 Links to the videos used for EYTH dataset are given below. Each video is 3-6 minutes long. We cleaned the dataset before annotation and discarded unnecessary frames (e.g., frames containing text or if hands were out of view for a long time, etc). 
 
 [![vid4](http://img.youtube.com/vi/dYZm7jB9YA4/0.jpg)](https://www.youtube.com/watch?v=dYZm7jB9YA4&feature=youtu.be&hd=1 "vid4")
