@@ -70,6 +70,9 @@ Hand segmentation results for all datasets:
 ### CVPR Poster
 ![cvpr-poster](images/cvpr2018-AUK.jpg)
 
+### License
+We only provide the annotations for the YouTube videos. The copyright to the videos belong to YouTube. The license for our annotations is in the license.txt file. 
+
 ### Acknowledgements
 We would like to thank undergraduate students Cristopher Matos, and Jose-Valentin Sera-Josef, and MS student Shiven Goyal for helping us in data annotations. 
 
